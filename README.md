@@ -1,6 +1,10 @@
 ###
 CHATGPT API for summarize text
 
+Setup environment requirements:
+- Python 3.10
+- Create chatgpt key at https://platform.openai.com/api-keys
+
 1. Create .env file
 ```
 CHATGPT_API_KEY=<api_key>
